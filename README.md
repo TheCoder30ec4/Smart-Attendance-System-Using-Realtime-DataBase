@@ -34,5 +34,11 @@ Follow these steps to set up and run the project locally:
 3. **Install Dependencies:**
 - pip install -r Requirements. txt
 4. **Run the Project:**
+- Add the json file you get from the Firebase
+- add your credentials in the main.py, addToDatabase.py (you can get it by create a storage and realtime database in fireBase website)
+- Run AddToDatabase.py
+**Note:** Want to update the data can be done in this file
+- Run endcode_genrator.py
+- Run main.py
 
 
