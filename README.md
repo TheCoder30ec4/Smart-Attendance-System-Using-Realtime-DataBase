@@ -1,7 +1,7 @@
 # Smart Attendance System using Real-Time Database System
 
 <p align="center">
-  <img src="https://example.com/your-image.png" alt="Project Image">
+  <img src="Images/Example.png" alt="Project Image">
 </p>
 
 This project is focused on implementing an efficient attendance system utilizing Firebase as the backend infrastructure.
@@ -32,6 +32,7 @@ Follow these steps to set up and run the project locally:
 - Create a Firebase project and set up the real-time database.
 - Configure Firebase authentication as per project requirements.
 3. **Install Dependencies:**
+- pip install -r Requirements. txt
 4. **Run the Project:**
 
 
