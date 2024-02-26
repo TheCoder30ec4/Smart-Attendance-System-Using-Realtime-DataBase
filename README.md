@@ -28,6 +28,7 @@ Managing attendance in various institutions is a critical task. This project add
 Follow these steps to set up and run the project locally:
 
 1. **Clone the Repository:**
+- git clone https://github.com/TheCoder30ec4/Smart-Attendance-System-Using-Realtime-DataBase.git
 2. **Set Up Firebase:**
 - Create a Firebase project and set up the real-time database.
 - Configure Firebase authentication as per project requirements.
