@@ -1,0 +1,6 @@
+pip install python-opencv
+pip install face_recognition
+pip install face_recognition_models
+pip install firebase-admin
+pip install numpy
+pip install cvzone
